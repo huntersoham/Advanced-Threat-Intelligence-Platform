@@ -1,5 +1,5 @@
 # 🛡️ Threat Intelligence Platform (TIP)
-Infotact Cybersecurity Internship — Project 1: Finance & Banking
+A Python-based Threat Intelligence Platform | Finance & Banking Use Case
 
 ---
 
