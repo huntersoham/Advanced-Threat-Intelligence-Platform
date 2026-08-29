@@ -1,5 +1,5 @@
 # 🛡️ Threat Intelligence Platform (TIP)
-A Python-based Threat Intelligence Platform | Finance & Banking Use Case
+Personal Cybersecurity Project — OSINT-based Threat Intelligence Platform
 
 ---
 
